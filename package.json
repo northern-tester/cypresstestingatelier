@@ -1,0 +1,24 @@
+{
+  "name": "cypresstestingatelier",
+  "version": "1.0.0",
+  "description": "Attempt to automate the atelier site using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northern-tester/cypresstestingatelier.git"
+  },
+  "keywords": [
+    "test",
+    "cypress",
+    "atelier"
+  ],
+  "author": "Ash Winter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/northern-tester/cypresstestingatelier/issues"
+  },
+  "homepage": "https://github.com/northern-tester/cypresstestingatelier#readme"
+}
